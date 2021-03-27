@@ -1,0 +1,7 @@
+SubjectID|IT1234
+Subject|Test Sampl
+F|30.000000|70.000000
+Semester|20211
+StudentCount|2
+S|20184252|Hoang Thuy          |Ha02      | 8.000000 | 10.000000 | A |
+S|20184151|Hoang Thuy          |Ha01      | 10.000000 | 10.000000 | A |

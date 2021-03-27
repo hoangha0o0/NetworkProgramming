@@ -1,0 +1,1 @@
+all: udpClient.c udpServer.c; gcc -o client udpClient.c -w; gcc -o server udpServer.c -w
