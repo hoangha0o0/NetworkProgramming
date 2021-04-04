@@ -1,0 +1,1 @@
+all: ./clientFolder/echoClient.c ./serverFolder/echoServer.c ; gcc -o ./clientFolder/client ./clientFolder/echoClient.c -w; gcc -o ./serverFolder/server ./serverFolder/echoServer.c -w

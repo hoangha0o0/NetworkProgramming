@@ -1,0 +1,1 @@
+all: echoClient.c echoServer.c ; gcc -o client echoClient.c -w; gcc -o server echoServer.c -w
